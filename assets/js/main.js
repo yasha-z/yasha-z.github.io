@@ -75,7 +75,7 @@ document.addEventListener('DOMContentLoaded', function() {
   const secretContent = document.getElementById('secret-content');
   
   // The correct password is 6307 (based on the hints)
-  const correctPassword = '6307';
+  const correctPassword = '7306';
   
   // Add focus navigation between inputs
   passwordDigits.forEach((digit, index) => {
